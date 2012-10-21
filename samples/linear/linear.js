@@ -21,10 +21,7 @@ function toString(automata) {
     var size = automata.getSize();
     
     for (var k = 0; k < size; k++)
-        if (automata.getCell(k).value)
-            result += "X";
-        else
-            result += ".";
+        result += automata.getCellValue(k) ? "X" : ".";
     
     return result;
 }
