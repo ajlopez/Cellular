@@ -7,7 +7,7 @@ var automata = cellular.createLinearAutomata(15, 2, 1, 0);
 assert.ok(automata);
 assert.equal(automata.getSize(), 15);
 assert.equal(automata.getStates(), 2);
-assert.equal(automata.getWidth(), 1);
+assert.equal(automata.getRadius(), 1);
 
 // get cells
 
