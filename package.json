@@ -1,0 +1,16 @@
+{ "name": "cellular"
+, "description": "Simple Cellular Automata processing in Javascript for browser and Node.js"
+, "keywords": [ "cellular", "automata", "game of life", "nodejs", "javascript" ]
+, "version": "0.0.1alpha"
+, "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
+, "repository": { "type": "git", "url": "git://github.com/ajlopez/Cellular.git" }
+, "main": "./lib/cellular.js"
+, "engines": { "node": ">= 0.6.0 && < 0.9.0" }
+, "scripts": {
+    "test": "node ./test.js"
+  }
+, "dependencies": {
+  }
+, "devDependencies": {
+  }
+}
