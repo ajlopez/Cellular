@@ -40,6 +40,12 @@ TBD
 - Distributed Sample
 - Browser Sample
 
+## References
+
+http://mathworld.wolfram.com/ElementaryCellularAutomaton.html
+http://en.wikipedia.org/wiki/Conway's_Game_of_Life
+http://en.wikipedia.org/wiki/Rule_110
+
 ## Contribution
 
 Feel free to [file issues](https://github.com/ajlopez/Cellular) and submit
