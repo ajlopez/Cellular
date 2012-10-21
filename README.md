@@ -43,7 +43,9 @@ TBD
 ## References
 
 http://mathworld.wolfram.com/ElementaryCellularAutomaton.html
+
 http://en.wikipedia.org/wiki/Conway's_Game_of_Life
+
 http://en.wikipedia.org/wiki/Rule_110
 
 ## Contribution
